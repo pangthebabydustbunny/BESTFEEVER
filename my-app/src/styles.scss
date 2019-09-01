@@ -351,6 +351,17 @@
 	-webkit-animation: blink-1 0.8s steps(1, end) infinite both;
 	        animation: blink-1 0.8s steps(1, end) infinite both;
 }
+
+
+.loading-page {
+    background: #141414;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
 /* Banner */
 
 .bg-banner {
